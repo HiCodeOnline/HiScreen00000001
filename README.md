@@ -4,6 +4,12 @@ Open-sourced under the Apache 2.0 licnese
 
 https://www.hicode.online/zh/posts/screen00000001/
 
+## 实现方式
+
+### Jetpack Compose (Android)
+
+- HiScreen00000001WithJetpackCompose
+
 ## ❤ 支持开源
 
 如果帮助到你，请关注一下作者微信公众号，支持开源
